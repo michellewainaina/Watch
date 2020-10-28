@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="create_acct">Create Account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="alarm">Alarm</string>
+    <string name="onclick">Sign Up</string>
+</resources>
